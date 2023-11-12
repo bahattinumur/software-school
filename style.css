@@ -1,0 +1,28 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+
+#map {
+  height: 600px;
+  width: 100%;
+}
+
+html {
+  scroll-behavior: smooth !important;
+}
+
+.form-control{
+    margin: 15px;
+}
+.btn-dark {
+    text-align: center;
+    margin-left: 14px;
+
+}
+
+h2.mb-3 {
+    text-align: center;
+}
+
