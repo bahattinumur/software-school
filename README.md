@@ -1,6 +1,6 @@
 <h1> SOFTWARE SCHOOL  </h1>
 
-This is the example of a software scholl.
+This is the example of a software school website.
 
 Built with Bootstrap for streamlined styling and layout.
 
